@@ -19,4 +19,6 @@ The goal is to help EV manufacturers and stakeholders make data-driven strategic
   
 #### Data Sources: 
 Kaggle EV datasets and Government-based EV registration data (VAHAN/MoRTH derived)
-link - 
+**link**
+- https://drive.google.com/file/d/1pUaj35XKjQ3LFL33bDpLrSkxXUpd9wCD/view?usp=sharing 
+- https://drive.google.com/file/d/12OSGo2GAl46JCy2j1mZDFF-Qq7Qr_4sW/view?usp=sharing
