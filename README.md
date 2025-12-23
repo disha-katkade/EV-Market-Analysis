@@ -46,6 +46,33 @@ These visualizations helped identify demand patterns, stability, and growth beha
 - Compared adoption timing across vehicle types
 - This analysis is descriptive, not predictive.
 
+## 🤖 Machine Learning Segmentation
+Model Used:
+- **K-Means Clustering (Unsupervised Learning)**
+
+Features for Clustering:
+- Total EV Sales
+- Average Annual Sales
+- Growth Rate
+
+Outcome:
+Vehicle types were grouped into:
+- Mature segments
+- High-growth segments
+- Emerging / niche segments
+
+## 🔍 Key Insights
+- EV two-wheelers dominate the market due to affordability and urban usage
+- Passenger EVs show strong future growth potential
+- Commercial EVs are emerging but infrastructure-dependent
+- EV adoption is highly uneven across states
+
+## 💡 Business Recommendations
+- Scale production in high-demand vehicle segments
+- Invest in R&D for high-growth segments
+- Use fleet-based and policy-driven approaches for commercial EVs
+- Align product launches with state-level EV policies
+  
 ## 📂 Project Structure
 
 EV-Market-Segmentation/
@@ -61,3 +88,4 @@ EV-Market-Segmentation/
 - `EV Market Segmentation Report.pdf`
 - `README.md`
 
+📌 This project demonstrates that the EV market is not uniform and requires vehicle-type-specific and region-specific strategies. Combining data analysis with machine learning enables better decision-making for EV manufacturers and policymakers.
