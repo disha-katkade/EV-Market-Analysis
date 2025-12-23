@@ -81,10 +81,11 @@ EV-Market-Segmentation/
    - `India_vehicle_sales_yearly.xlsx - Sheet1.csv`
 - `Market_Segmentation_on_EV.ipynb`
 - `visuals/`
-  - `market_share.jpg`
-  - `heatmap.jpg`
-  - `clustering.jpg`
-  - `statewise_vehicle_adoption.jpg`
+  - `market_share.png`
+  - `heatmap.png`
+  - `clustering.png`
+  - `growth_trend.png`
+  - `statewise_vehicle_adoption.png`
 - `EV Market Segmentation Report.pdf`
 - `README.md`
 
